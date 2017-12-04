@@ -1,2 +1,2 @@
 # react-native
-react-native demo
+react-native-5.0 demo
